@@ -54,7 +54,8 @@ public class BasicApplicationTests extends AbstractIntegrationTest {
     
     @Test
     void contextLoads() {
-       String message = "Default Message Cambio 11";
+        //PRUEBA DEL TEST
+       String message = "Default Message Cambio 11 -JR";
         assertNotNull(message);
     }
 
